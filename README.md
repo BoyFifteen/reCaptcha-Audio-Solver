@@ -6,7 +6,7 @@ This script is a Python-based solution to automate solving Google's reCAPTCHA us
 
 ## Features
 - Handles **reCAPTCHA v2 audio challenges**.
-- Downloads and processes audio challenges for transcription. 
+- Downloads and processes audio challenges for transcription.  
 - Submits the solved response to bypass the CAPTCHA.
 - Uses `requests` for HTTP interactions and `speech_recognition` for audio processing.
 
