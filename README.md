@@ -10,7 +10,7 @@ This script is a Python-based solution to automate solving Google's reCAPTCHA us
 - Submits the solved response to bypass the CAPTCHA.
 - Uses `requests` for HTTP interactions and `speech_recognition` for audio processing.
 
----
+--- 
 
 ## Requirements
 Make sure you have the following installed before running the script:
