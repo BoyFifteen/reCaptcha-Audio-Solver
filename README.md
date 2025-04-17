@@ -12,7 +12,7 @@ This script is a Python-based solution to automate solving Google's reCAPTCHA us
 
 --- 
 
-## Requirements
+## Requirements 
 Make sure you have the following installed before running the script:
 
 ### Python Libraries
